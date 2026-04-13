@@ -1,4 +1,7 @@
-"""Offline trainer: PPO for OBELIX Phase 2 (Blinking Box).
+"""Offline trainer: PPO for OBELIX Phase 2 (Blinking Box) --> GAVE BEST SCORE IN FINAL TESTING PHASE(-1609.51)
+# train_ppo_phase2.py renamed as train_final_submission.py
+# agent_ppo_phase2.py renamed as agent_final_submission.py
+# weights_ppo_phase2.pth renamed as weights_final_submission.pth
 
 Run locally to create weights.pth, then submit agent_ppo_phase2.py + weights.pth.
 
